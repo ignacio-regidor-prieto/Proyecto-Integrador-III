@@ -1,2 +1,3 @@
 # Proyecto-Integrador-III
-Red neuronal predicción nivel de contaminación Madrid Centro
+Red neuronal de tipo regresión.
+Realiza una predicción del nivel de contaminación en Madrid Centro.
